@@ -10,6 +10,6 @@ Please reach out if you have any questions!
 
 Your teaching team,
 
-Cynthia Zeng (czeng12@mit.edu)
+Cynthia Zeng (cz938@nyu.edu)
 
 
