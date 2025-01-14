@@ -1,12 +1,12 @@
 # Stern NYUAD | Computing Prep
 
-Welcome to the repository for Stern at NYUAD to learn how to use Python! 
-You will find all resources preparing for the elective class AI for Business. 
+Welcome to the Stern at NYUAD Computing Prep repository! 
+This resource is designed to help you get started with Python in preparation for the elective course AI for Business.
 
-- The ```Orientation``` section covers an introduction to GitHub, Julia, and R.
-- The ```intro_to_python``` section provides warm-up content for students who are not familiar with Python.
 
-Please reach out to us if you have any questions!
+- ```intro_to_python``` : A warm-up section for students new to Python, providing foundational content to get you comfortable with the basics.
+
+Please reach out if you have any questions!
 
 Your teaching team,
 
